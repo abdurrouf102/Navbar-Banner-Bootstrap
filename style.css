@@ -1,0 +1,50 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.custon_ccc .carousel-item img{
+   height: 90vh;
+   object-fit: cover;
+   background-position: center;
+   background-size: cover;
+}
+
+.custon_ccc .ccc-ccc a{
+   color: blue;
+   font-weight: bold;
+   text-decoration: none;
+   font-size: 20px;
+   background-color: yellow;
+   padding: 1px 20px;
+   border-radius: 10px;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   box-shadow: 0px 0px 10px;
+   
+}
+
+.custon_ccc .ccc-ccc a:hover{
+   background-color: blue;
+   color: white;
+}
+
+.custon_ccc .ccc-ccc p{
+   color: red;
+   font-weight: bold;
+   box-shadow: 0px 0px 10px;
+   border-radius: 25px;
+   font-size: 18px;
+ 
+}
+
+.custon_ccc .ccc-ccc h1{
+   color: red;
+   margin-bottom: 20px;
+
+}
+
+
+.nav-link{
+   color: red;
+}
